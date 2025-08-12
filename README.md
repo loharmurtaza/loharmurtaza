@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Murtaza Lohar.
 - 👀 I’m interested in ML, DL, Embedded Systems, IoT, Health IoT, Web Development, and Integrations.
-- 🌱 I’m recently worked on "Porting RTOS Embox to the 'Vostok' platform with a RISC-V microcontroller" and "Detecting Freezing of Gait in Parkinson's Disease Patients Using Mulit-Modal Data" projects.
-- 📫 How to reach me? Try: loharmurtaza@gmail.com
+- 📫 How to reach me? Try: loharmurtaza788@gmail.com
 
 <!---
 loharmurtaza/loharmurtaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
