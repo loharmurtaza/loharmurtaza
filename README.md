@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Ghulam Murtaza**.
 
 - 👀 **About Me**:
-As a Python Developer & Mechatronics engineer with an MSc graduation in Internet of Things & Wireless Technologies, I specialize in data analysis, machine learning, deep learning, embedded systems, internet of medical things, and DevOps. My work bridges wearable sensors, edge computing, and deep learning to create innovative healthcare solutions. My expertise extends beyond engineering through the development of machine learning, data science, and analytics skills, which I utilized to generate and analyze data related to the healthcare domains. My mission is to combine engineering skills with state-of-the-art technological solutions to address real challenges faced by healthcare facilities that leverage data analytics and emerging fields.
+Python Developer / AI Engineer with hands-on experience building backend systems and AI-powered applications, including Retrieval-Augmented Generation (RAG) pipelines and LLM integrations. Proficient in developing REST APIs using FastAPI and Django, working with vector databases, and implementing data processing workflows for knowledge retrieval systems. Experienced with cloud deployment, CI/CD practices, and scalable service design to support production environments. Strong problem-solving skills with a focus on clean architecture, reliability, and practical AI-driven solutions, with the ability to contribute effectively both independently and within collaborative teams.
 
 - 📫 How to reach me? Try: **loharmurtaza788@gmail.com** or **ghulam.murtaza@skoltech.ru**
 
