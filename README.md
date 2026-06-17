@@ -29,24 +29,26 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>
+  <a href="#" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" /></a>
+  <a href="#" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="48" height="48" /></a>
+  <a href="#" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="44" height="44" /></a>
+  <a href="#" title="LLMs / OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="44" height="44" /></a>
+  <a href="#" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" /></a>
+  <a href="#" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" /></a>
+  <a href="#" title="scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" /></a>
+  <a href="#" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /></a>
+  <a href="#" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" /></a>
+  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /></a>
+  <a href="#" title="DigitalOcean"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="48" height="48" /></a>
+  <a href="#" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48" /></a>
+  <a href="#" title="Raspberry Pi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="48" height="48" /></a>
+  <a href="#" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" /></a>
+  <a href="#" title="MQTT"><img src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT" width="44" height="44" /></a>
+  <a href="#" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" /></a>
+  <a href="#" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
+</p>
 
 **Specialities**
 - 💥 **AI / ML:** RAG pipelines, LLM agents & tool calling, model training / fine-tuning (PyTorch · TensorFlow · scikit-learn), classic ML & data science, vector search, embeddings
@@ -70,13 +72,18 @@
 
 ### 📌 Featured Projects
 
-<!-- Replace repo names with your actual repositories -->
 <p align="left">
   <a href="https://github.com/loharmurtaza/simulating-graphene-percolation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loharmurtaza&repo=simulating-graphene-percolation&theme=tokyonight" alt="Project 1" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loharmurtaza&repo=simulating-graphene-percolation&hide_border=true&theme=tokyonight&title_color=2E9EF7&icon_color=2E9EF7" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=loharmurtaza&repo=simulating-graphene-percolation&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="Project 1" />
+    </picture>
   </a>
   <a href="https://github.com/katerina2901/Diabetic-retinopathy-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katerina2901&repo=Diabetic-retinopathy-classification&theme=tokyonight" alt="Project 2" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=katerina2901&repo=Diabetic-retinopathy-classification&hide_border=true&theme=tokyonight&title_color=2E9EF7&icon_color=2E9EF7" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=katerina2901&repo=Diabetic-retinopathy-classification&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="Project 2" />
+    </picture>
   </a>
 </p>
 
@@ -89,9 +96,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2E9EF7&icon_color=2E9EF7" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" />
   </picture>
-</p>
-
-<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=2E9EF7" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&hide_border=true&langs_count=8&title_color=2E9EF7" alt="Top Languages" />
