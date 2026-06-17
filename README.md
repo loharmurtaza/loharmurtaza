@@ -84,26 +84,37 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2E9EF7&icon_color=2E9EF7" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loharmurtaza&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=2E9EF7" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&hide_border=true&langs_count=8&title_color=2E9EF7" alt="Top Languages" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loharmurtaza&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loharmurtaza&hide_border=true&theme=tokyonight&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=loharmurtaza&hide_border=true&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
 
 ### ⏱️ Weekly Coding Stats (WakaTime)
 
-<!-- Requires a WakaTime account. Replace the username below with your WakaTime username. -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=loharmurtaza&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+<!-- Requires WakaTime "Display ... publicly" settings enabled. Replace username with your WakaTime @handle. -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=loharmurtaza&layout=compact&hide_border=true&theme=tokyonight&title_color=2E9EF7" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=loharmurtaza&layout=compact&hide_border=true&title_color=2E9EF7" alt="WakaTime Stats" />
+  </picture>
 </p>
 
 ---
@@ -111,7 +122,10 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loharmurtaza/loharmurtaza/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loharmurtaza/loharmurtaza/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/loharmurtaza/loharmurtaza/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
 <!---
