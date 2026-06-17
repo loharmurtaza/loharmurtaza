@@ -66,7 +66,7 @@
   &nbsp;
   <a href="https://github.com/loharmurtaza" title="GitHub"><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub" width="44" height="44" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/murtaza788" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="44" height="44" /></a>
+  <a href="https://www.linkedin.com/in/murtaza788" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="44" height="44" /></a>
 </p>
 
 ---
