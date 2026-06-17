@@ -34,7 +34,7 @@
   <a href="#" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" /></a>
   <a href="#" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="48" height="48" /></a>
   <a href="#" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="44" height="44" /></a>
-  <a href="#" title="LLMs / OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="44" height="44" /></a>
+  <a href="#" title="LLMs / Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="44" height="44" /></a>
   <a href="#" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" /></a>
   <a href="#" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" /></a>
   <a href="#" title="scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" /></a>
@@ -62,10 +62,11 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="mailto:loharmurtaza788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/loharmurtaza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your LinkedIn: replace the URL below -->
-  <a href="https://www.linkedin.com/in/murtaza788"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:loharmurtaza788@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://github.com/loharmurtaza" title="GitHub"><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/murtaza788" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="44" height="44" /></a>
 </p>
 
 ---
