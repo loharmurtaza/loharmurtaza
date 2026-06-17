@@ -1,9 +1,118 @@
-- 👋 Hi, I’m **Ghulam Murtaza**.
+<h1 align="center">Hi 👋, I'm Murtaza Lohar</h1>
+<h3 align="center">Python / Django Developer | AI / ML Engineer | IoT Engineer</h3>
+<p align="center">Building backend systems and AI-powered applications</p>
 
-- 👀 **About Me**:
-Python Developer / AI Engineer with hands-on experience building backend systems and AI-powered applications, including Retrieval-Augmented Generation (RAG) pipelines and LLM integrations. Proficient in developing REST APIs using FastAPI and Django, working with vector databases, and implementing data processing workflows for knowledge retrieval systems. Experienced with cloud deployment, CI/CD practices, and scalable service design to support production environments. Strong problem-solving skills with a focus on clean architecture, reliability, and practical AI-driven solutions, with the ability to contribute effectively both independently and within collaborative teams.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=loharmurtaza&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
+</p>
 
-- 📫 How to reach me? Try: **loharmurtaza788@gmail.com** or **ghulam.murtaza@skoltech.ru**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+RAG+%2B+LLM+Systems;Backend+Developer+%7C+FastAPI+%26+Django;Vector+Databases+%26+Data+Pipelines;Cloud+Deployment+%26+CI%2FCD" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 About Me
+
+🔭 I build **backend systems and AI-powered applications** — from **Retrieval-Augmented Generation (RAG)** pipelines and **LLM agents** to production **REST APIs** and **IoT** devices.
+
+- 🤖 I build **RAG pipelines** and **LLM agents** (tool calling, multi-step reasoning), and **train / fine-tune models** with **PyTorch, TensorFlow & scikit-learn**
+- 🚀 I develop **REST APIs** and async services with **FastAPI** and **Django / DRF**
+- 🗂️ I work with **vector databases**, **PostgreSQL** and **Redis** to power knowledge-retrieval and data workflows
+- 📡 I build **IoT** solutions on **Raspberry Pi** and **Arduino / microcontrollers**, communicating over **MQTT**
+- ☁️ I ship to production with **Docker**, **CI/CD pipelines** and **DigitalOcean**
+- 🧩 Focused on **clean architecture, reliability, and practical AI-driven solutions** — effective solo or within a team
+
+📫 **Reach me:** loharmurtaza788@gmail.com • ghulam.murtaza@skoltech.ru
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Specialities**
+- 💥 **AI / ML:** RAG pipelines, LLM agents & tool calling, model training / fine-tuning (PyTorch · TensorFlow · scikit-learn), classic ML & data science, vector search, embeddings
+- 💥 **Backend:** FastAPI, Django / DRF, REST API design, async services
+- 💥 **Data:** vector databases, PostgreSQL, Redis, data-processing pipelines
+- 💥 **IoT:** Raspberry Pi, Arduino / microcontrollers, MQTT, sensor data pipelines
+- 💥 **DevOps:** Docker, CI/CD (GitHub Actions), DigitalOcean deployment
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="mailto:loharmurtaza788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/loharmurtaza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Add your LinkedIn: replace the URL below -->
+  <a href="https://www.linkedin.com/in/murtaza788"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<!-- Replace repo names with your actual repositories -->
+<p align="left">
+  <a href="https://github.com/loharmurtaza/simulating-graphene-percolation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loharmurtaza&repo=simulating-graphene-percolation&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/katerina2901/Diabetic-retinopathy-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katerina2901&repo=Diabetic-retinopathy-classification&theme=tokyonight" alt="Project 2" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loharmurtaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loharmurtaza&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loharmurtaza&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loharmurtaza&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+### ⏱️ Weekly Coding Stats (WakaTime)
+
+<!-- Requires a WakaTime account. Replace the username below with your WakaTime username. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=loharmurtaza&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loharmurtaza/loharmurtaza/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 <!---
 loharmurtaza/loharmurtaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
