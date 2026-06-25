@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murtaza Lohar</h1>
+<h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">Python / Django Developer | AI / ML Engineer | IoT Engineer</h3>
 <p align="center">Building backend systems and AI-powered applications</p>
 
