@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
-<h3 align="center">Python / Django Developer | AI / ML Engineer | IoT Engineer</h3>
-<p align="center">Building backend systems and AI-powered applications</p>
+<h3 align="center">Backend Developer | AI / ML Engineer</h3>
+<p align="center">Building Django/FastAPI systems and LLM-powered applications side-by-side</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=loharmurtaza&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+RAG+%2B+LLM+Systems;Backend+Developer+%7C+FastAPI+%26+Django;Vector+Databases+%26+Data+Pipelines;Cloud+Deployment+%26+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+RAG+%2B+LLM+Applications;Backend+Developer+%7C+FastAPI+%26+Django;Vector+Stores+Databases+%26+RAG+Pipelines;Cloud+Deployment+%26+CI%2FCD" alt="Typing SVG" />
 </p>
 
 ---
